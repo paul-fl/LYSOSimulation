@@ -1,0 +1,7 @@
+/Users/paulflorescu/Desktop/geant4-v11.2.2/projects/LYSOSimulation/LYSOSimulation_build/CMakeFiles/LYSOSimulation.dir
+/Users/paulflorescu/Desktop/geant4-v11.2.2/projects/LYSOSimulation/LYSOSimulation_build/CMakeFiles/edit_cache.dir
+/Users/paulflorescu/Desktop/geant4-v11.2.2/projects/LYSOSimulation/LYSOSimulation_build/CMakeFiles/rebuild_cache.dir
+/Users/paulflorescu/Desktop/geant4-v11.2.2/projects/LYSOSimulation/LYSOSimulation_build/CMakeFiles/list_install_components.dir
+/Users/paulflorescu/Desktop/geant4-v11.2.2/projects/LYSOSimulation/LYSOSimulation_build/CMakeFiles/install.dir
+/Users/paulflorescu/Desktop/geant4-v11.2.2/projects/LYSOSimulation/LYSOSimulation_build/CMakeFiles/install/local.dir
+/Users/paulflorescu/Desktop/geant4-v11.2.2/projects/LYSOSimulation/LYSOSimulation_build/CMakeFiles/install/strip.dir
